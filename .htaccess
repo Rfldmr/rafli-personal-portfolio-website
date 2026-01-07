@@ -1,0 +1,13 @@
+RewriteEngine On
+
+# Menghilangkan ekstensi .php dari URL
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+# Redirect dari URL dengan .php ke tanpa .php
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
+RewriteRule ^ %1 [R=301,L]
+
+# Mencegah akses langsung ke direktori
+Options -Indexes

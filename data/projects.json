@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Analytical Dashboard for Self-Sufficiency Assistance Realization in 2025",
+        "category": "data_analytics",
+        "description": "During my internship at BRMP Penerapan (Ministry of Agriculture), I designed and developed an interactive performance monitoring dashboard to track the realization of the 2025 Food Self-Sufficiency Support Program (Pendampingan Swasembada Pangan). Leveraging Google Looker Studio for visualization and Excel/Google Sheets for data processing, I transformed raw operational data into actionable insights. The dashboard provides a high-level overview of over 450 activities across 30 provinces, offering granular breakdowns of participant demographics (including farmers, extension workers, and Babinsa) and the adoption of agricultural technology innovations. This project successfully streamlined the reporting process, allowing stakeholders to visualize geographic distribution and monitor program KPIs in real-time.",
+        "image": "uploads/project1.png",
+        "preview_images": [
+            "uploads/project2_preview1.png",
+            "uploads/project2_preview2.png",
+            "uploads/project2_preview3.png"
+        ],
+        "completion_date": "2025-07-03",
+        "dataset_details": {
+            "creator": "BRMP Penerapan Kementerian Pertanian RI",
+            "source": "BRMP Penerapan internal resources",
+            "year": "2025 - Now",
+            "size": "708.9 KB",
+            "dataset_link": "",
+            "dataset_link_text": ""
+        },
+        "accuracy": "",
+        "technologies": ["Google Looker Studio", "Google Sheets", "Microsoft Excel"],
+        "github_url": "",
+        "demo_url": "https://lookerstudio.google.com/reporting/73b8f30f-436b-4919-8220-1fd6adb6a490"
+    },
+    {
+        "title": "BRMP Penerapan Customer Service Chatbot",
+        "category": "data_science",
+        "description": "BRMP Penerapan Public Service Chatbot I developed an intelligent, rule-based chatbot designed to streamline customer service for BRMP Penerapan, a government agency. Built using Python, TensorFlow, Keras, and NLTK, the NLP model achieved a 95.2% training accuracy in understanding and responding to user inquiries. The web application, powered by Flask and Tailwind CSS, features a dual-interface architecture: a responsive public chat interface for users and a comprehensive Admin Dashboard. The secure admin panel includes modules for managing JSON datasets, controlling admin access, customizing website content (CMS), and visualizing visitor statistics, allowing non-technical staff to easily maintain the system.",
+        "image": "uploads/project1.png",
+        "preview_images": [
+            "uploads/project1_preview1.png",
+            "uploads/project1_preview2.png",
+            "uploads/project1_preview3.png"
+        ],
+        "completion_date": "2025-12-01",
+        "dataset_details": {
+            "creator": "BRMP Penerapan Kementerian Pertanian RI",
+            "source": "BRMP Penerapan internal resources",
+            "year": "2023 - 2025",
+            "size": "99.9 KB",
+            "dataset_link": "",
+            "dataset_link_text": ""
+        },
+        "accuracy": "95.2%",
+        "technologies": ["Python", "Flask", "TensorFlow", "Keras", "NLTK", "JavaScript", "SQLite3", "Tailwind CSS"],
+        "github_url": "https://github.com/Rfldmr/brmp-penerapan-customer-service-chatbot",
+        "demo_url": ""
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "degree": "Bachelor of Applied Science in Software Engineering",
+        "institution": "IPB University Vocational School",
+        "year": "2022 - 2026",
+        "description": "Focusing on data science and delving into AI fields such as machine learning and deep learning, including data processing and analysis.",
+        "logo": "uploads/logo-ipb.png"
+    },
+    {
+        "degree": "Computer Network Engineering",
+        "institution": "SMK Negeri 2 Bogor",
+        "year": "2019 - 2022",
+        "description": "Learn the fundamentals of computer science, networking, and programming. Not just software, but also hardware components within a network.",
+        "logo": "uploads/logo-smkn2.jpeg"
+    }
+]

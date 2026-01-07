@@ -1,0 +1,35 @@
+[
+    {
+        "position": "Data Scientist Intern",
+        "company": "BRMP Penerapan Kementerian Pertanian",
+        "period": "Jul 2025 - Dec 2025",
+        "description": [
+            "Collecting, cleaning, and processing data from multiple sources.",
+            "Building AI chatbots for automated customer service solutions.",
+            "Developing analytic dashboards using Looker Studio to visualize key metrics and insights."
+        ],
+        "logo": "uploads/logo-brmp.png"
+    },
+    {
+        "position": "Data Science Bootcamp Mentor",
+        "company": "NextSkill Indonesia",
+        "period": "May 2025 - Aug 2025",
+        "description": [
+            "Become a speaker and mentor at NextSkill Data Science Bootcamp.",
+            "Answer questions and provide technical support to vocational high school students.",
+            "Guiding vocational high school students in the basic concepts of data science."
+        ],
+        "logo": "uploads/logo-nextskill.png"
+    },
+    {
+        "position": "Assistant Lecturer",
+        "company": "IPB University Vocational School",
+        "period": "Jan 2024 - May 2024",
+        "description": [
+            "Attend lectures to support the lecturer in managing learning activities.",
+            "Monitor group discussions, labs, or practicums and provide guidance when needed.",
+            "Performing administrative work such as inputting and processing grade data."
+        ],
+        "logo": "uploads/logo-ipb.png"
+    }
+]
